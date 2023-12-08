@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container-tudo {
+    margin-top: 80px;
+}
+
+.container-escrita {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+form table {
+    width: 100%;
+}
+
+form table td {
+    padding: 10px;
+}
+
+form input,
+form textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+.botoes input,
+.botoes button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.botoes input:hover,
+.botoes button:hover {
+    background-color: #45a049;
+}
